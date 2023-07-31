@@ -1,6 +1,6 @@
 import pygame, math
 from configs import *
-
+ 
 class Arrow(pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
