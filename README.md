@@ -1,19 +1,22 @@
 # Soaring
 
 ## Description
-Provide a brief description of your game. Explain the game's objective, genre, and any unique features.
+This is a remake of the once popular Flash game, [Flight](https://www.gameszap.com/game/6397/flight.html), created as a fun final project for ICS4U1.
 
 ## Screenshots
 Include screenshots of your game to give users a visual idea of what to expect.
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](assets/gameImages/game-title-with-load.png)
+![Screenshot 2](assets/gameImages/shop.png)
+![Screenshot 3](assets/gameImages/gameplay.png)
+![Screenshot 4](assets/gameImages/end_screen.png)
 
-## Installation
-Explain how to install your game. Include step-by-step instructions.
+## Installation/Running the Game
+1. Ensure prerequisites are met
+2. Clone repository
+3. Run the [Game.py](https://github.com/moibra05/Soaring/blob/main/Game.py) file
 
 ### Prerequisites
-List any prerequisites or dependencies, such as Python and Pygame.
 
 ```bash
 # Install Python (if not already installed)
