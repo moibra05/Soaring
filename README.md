@@ -1,7 +1,7 @@
 # Soaring
 
 ## Description
-This is a remake of the once popular Flash game, [Flight](https://www.gameszap.com/game/6397/flight.html), created as a fun final project for ICS4U1.
+This is a remake of the once popular Flash game, [Flight](https://www.gameszap.com/game/6397/flight.html), created as a fun project.
 
 ## Screenshots
 Include screenshots of your game to give users a visual idea of what to expect.
